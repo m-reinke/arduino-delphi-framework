@@ -6,3 +6,6 @@ Pass commands and queries to Arduino
 Use (local) network
 Security: Authentification and Integrity
 Multi platform
+
+# Development state
+The framework has yet to be extracted from both my garage opener projects
